@@ -1,4 +1,4 @@
-![img jpg](https://github.com/Joacogarzonn/ISPC/assets/166737211/8a57e75f-d8dd-4fd6-8782-6a069555b063)
+![Prueba ISPC portada 2024](https://github.com/Joacogarzonn/EM--Joaco-Garzon/assets/166737211/dd018e52-1c31-4a45-b4c6-b66cd76cc0b4)
 
 
 # Electronica Microcontrolada
